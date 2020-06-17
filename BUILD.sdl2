@@ -1,0 +1,6 @@
+cc_library(
+    name="sdl2",
+    hdrs=glob(["Headers/*.h"]),
+    visibility=["//visibility:public"],
+    includes=["Header"],
+)
