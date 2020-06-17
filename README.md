@@ -8,7 +8,7 @@ bazel --version
 
 if not install it through homebrew:
 ```bash
-brew insatll bazel
+brew install bazel
 ```
 
 ## Install SDL Framework
@@ -17,7 +17,7 @@ brew insatll bazel
 
 # Running
 ```
-bazel run moengine
+bazel run mo-physics
 ```
 
 Press `q` to quit the running window.

@@ -1,5 +1,5 @@
 cc_binary(
-    name="gootik",
+    name="mo-physics",
     srcs = glob([
         "src/**/*.h",
         "src/**/*.cpp",
